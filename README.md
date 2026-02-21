@@ -82,4 +82,4 @@ Example projects included or planned:
 
 ---
 
-## 📂 Repository Structure
+
